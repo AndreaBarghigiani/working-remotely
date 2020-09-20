@@ -11,3 +11,7 @@ Simple list of job board focused on remote work. This list can grow with your he
 * https://remoteleads.io/
 * https://www.employremotely.com/
 * https://wellpaid.io
+* https://landing.jobs/
+* https://findwork.dev/
+* https://workaline.com/
+* https://meerkad.com/
