@@ -5,9 +5,13 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [Dayly Remote](https://dailyremote.com/remote-software-development-jobs)
 * [Employ Remotely](https://www.employremotely.com/) - specific for web and mobile developers
 * [FrontEnd Remote Jobs](https://frontendremotejobs.com/) - doesn't seem that updated
+* [JobSpresso](https://jobspresso.co/remote-work/)
+* [JS Remotely](https://jsremotely.com/)
 * [Just Remote](https://justremote.co/remote-developer-jobs) - offers payed plan ($5/month) to get more listings
 * [Landing Jobs](https://landing.jobs/jobs?fr=true&hd=false&t_co=false&t_st=false)
 * [Meerkad](https://meerkad.com/) - requires account to see listings
+* [ProductHunt Jobs](https://www.producthunt.com/jobs?categories=Engineering&remote_ok=true)
+* [Remote.co](https://remote.co/remote-jobs/developer/)
 * [Remote Leads](https://remoteleads.io/) - this is a newsletter that will send you specific listing. Subscribed and never received a listing, probably because didn't respond to questions in first emails.
 * [Remote OK](https://remoteok.io/remote-dev-jobs)
 * [Remoters](https://remoters.net/jobs/software-development/)
