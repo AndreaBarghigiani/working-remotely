@@ -2,7 +2,7 @@
 Simple list of job board focused on remote work. This list can grow with your help so do not hesitate to send some PR 😉
 
 * [AngelCo Jobs](https://angel.co/jobs)
-* [Dayly Remote](https://dailyremote.com/remote-software-development-jobs)
+* [Daily Remote](https://dailyremote.com/remote-software-development-jobs)
 * [Employ Remotely](https://www.employremotely.com/) - specific for web and mobile developers
 * [FrontEnd Remote Jobs](https://frontendremotejobs.com/) - doesn't seem that updated
 * [JobSpresso](https://jobspresso.co/remote-work/)
