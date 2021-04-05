@@ -1,6 +1,7 @@
 # Working Remote
 Simple list of job board focused on remote work. This list can grow with your help so do not hesitate to send some PR 😉
 
+* [6nomads](https://6nomads.com/) - seems interesting... Provides a way to create your profile by answering a quiz, solving a code challenge and record a short video. After that companies start to apply to you instead of the other way around.
 * [AngelCo Jobs](https://angel.co/jobs)
 * [Daily Remote](https://dailyremote.com/remote-software-development-jobs)
 * [JobSpresso](https://jobspresso.co/remote-work/)
