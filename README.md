@@ -3,7 +3,9 @@ Simple list of job board focused on remote work. This list can grow with your he
 
 * [6nomads](https://6nomads.com/) - seems interesting... Provides a way to create your profile by answering a quiz, solving a code challenge and record a short video. After that companies start to apply to you instead of the other way around.
 * [AngelCo Jobs](https://angel.co/jobs)
+* [Bergamot](https://bergamot.io/)
 * [Daily Remote](https://dailyremote.com/remote-software-development-jobs)
+* [Hired](https://hired.com/)
 * [JobSpresso](https://jobspresso.co/remote-work/)
 * [JS Remotely](https://jsremotely.com/)
 * [Just Remote](https://justremote.co/remote-developer-jobs) - offers payed plan ($6/month) to get more listings
@@ -13,8 +15,10 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [Remote.co](https://remote.co/remote-jobs/developer/)
 * [Remote OK](https://remoteok.io/remote-dev-jobs)
 * [Remote Leaf](https://remoteleaf.com/) - IMO the **best service ever** to find new listings. It is a paid newsletter (offers a trial), that will send you only relevant jobs based on interests AND location.
+* [Remote Tech Jobs](https://www.remotetechjobs.com/)
 * [Remoters](https://remoters.net/jobs/software-development/)
 * [Remotive](https://remotive.io/?live_jobs%5Bmenu%5D%5Bcategory%5D=Software%20Development) - offers a filter to hide *"only US"* listings
+* [Simply Hired](https://www.simplyhired.com/)
 * [Stackoverflow Jobs](https://stackoverflow.com/jobs)
 * [Wellpaid](https://wellpaid.io)
 * [We Work Remotely](https://weworkremotely.com/categories/remote-programming-jobs#job-listings)
