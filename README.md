@@ -6,6 +6,7 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [Bergamot](https://bergamot.io/)
 * [Daily Remote](https://dailyremote.com/remote-software-development-jobs)
 * [Hired](https://hired.com/)
+* [Himalayas](https://himalayas.app) - offers filters to suit timezone and country requirements
 * [JobSpresso](https://jobspresso.co/remote-work/)
 * [JS Remotely](https://jsremotely.com/)
 * [Just Remote](https://justremote.co/remote-developer-jobs) - offers payed plan ($6/month) to get more listings
