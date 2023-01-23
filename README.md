@@ -21,10 +21,10 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [Working Nomads](https://www.workingnomads.co/jobs)
 * [Talent.io](https://www.talent.io/) - cool platform where you list your profile and get a career coach that will set interview for you
 * [Remotely Rocketship](https://www.remoterocketship.com/)
+* [FrontEnd Remote Jobs](https://frontendremotejobs.com/)
 
 ## Retired or not updated
 * ~~[Workaline](https://workaline.com/)~~ - seems not updated since 6th October
-* ~~[FrontEnd Remote Jobs](https://frontendremotejobs.com/)~~ - doesn't seem that updated
 * ~~[Employ Remotely](https://www.employremotely.com/)~~ - specific for web and mobile developers
 * ~~[Stackoverflow Jobs](https://stackoverflow.com/jobs)~~
 * ~~[Remote Tech Jobs](https://www.remotetechjobs.com/)~~
