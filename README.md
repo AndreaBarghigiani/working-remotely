@@ -22,6 +22,7 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [Talent.io](https://www.talent.io/) - cool platform where you list your profile and get a career coach that will set interview for you
 * [Remotely Rocketship](https://www.remoterocketship.com/)
 * [FrontEnd Remote Jobs](https://frontendremotejobs.com/)
+* [Remote Creative Work](https://remotecreativework.com/)
 
 ## Retired or not updated
 * ~~[Workaline](https://workaline.com/)~~ - seems not updated since 6th October
