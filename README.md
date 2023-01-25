@@ -23,6 +23,7 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [Remotely Rocketship](https://www.remoterocketship.com/)
 * [FrontEnd Remote Jobs](https://frontendremotejobs.com/)
 * [Remote Creative Work](https://remotecreativework.com/)
+* [Just Join It](https://justjoin.it/) - cool plarform for EU job listings
 
 ## Retired or not updated
 * ~~[Workaline](https://workaline.com/)~~ - seems not updated since 6th October
