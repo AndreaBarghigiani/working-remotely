@@ -5,12 +5,14 @@ Simple list of job board focused on remote work. This list can grow with your he
 * [AngelCo Jobs](https://angel.co/jobs)
 * [Daily Remote](https://dailyremote.com/remote-software-development-jobs)
 * [FrontEnd Remote Jobs](https://frontendremotejobs.com/)
+* [Himalayas](https://himalayas.app/)
 * [Hired](https://hired.com/)
 * [JS Remotely](https://jsremotely.com/)
 * [Just Remote](https://justremote.co/remote-developer-jobs) - offers payed plan ($6/month) to get more listings
 * [Just Join It](https://justjoin.it/) - cool plarform for EU job listings
 * [Landing Jobs](https://landing.jobs/jobs?fr=true&hd=false&t_co=false&t_st=false) - seems that most listing are from Portugal
 * [Meerkad](https://meerkad.com/) - requires account to see listings
+* [Power to Fly](https://powertofly.com/)
 * [ProductHunt Jobs](https://www.producthunt.com/jobs?categories=Engineering&remote_ok=true)
 * [Remote.co](https://remote.co/remote-jobs/developer/)
 * [Remote Creative Work](https://remotecreativework.com/)
